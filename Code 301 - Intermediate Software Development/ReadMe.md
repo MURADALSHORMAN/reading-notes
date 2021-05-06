@@ -7,7 +7,7 @@
 -  [ Read: Class 04](https://github.com/MURADALSHORMAN/reading-notes/tree/main/Code%20301%20-%20Intermediate%20Software%20Development)
 -  [Read: Class 05]()
 -  [Read: Class 06]()
--  [Read: Class 07]()
+-  [Read: Class 07](https://github.com/MURADALSHORMAN/reading-notes/tree/main/Code%20301%20-%20Intermediate%20Software%20Development)
 -  [Read: Class 08]()
 -  [Read: Class 09]()
 -  [Read: Class 10]()
