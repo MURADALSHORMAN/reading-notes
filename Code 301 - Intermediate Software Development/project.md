@@ -6,7 +6,7 @@
  4- made the Power point presentation 
  
 # [ our project repo]( https://github.com/Goal-Diggerzz ) 
-![]()
+![](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Untitled.png)
 the most challenge that we are face as a team :
 1-  passing the data from the back end to the front end 
 2- the style for the front end pages 
