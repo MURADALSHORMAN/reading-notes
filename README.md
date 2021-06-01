@@ -1,6 +1,6 @@
 # reading-notes
 
-# Code 102 - Intro to Software Development
+ Code 102 - Intro to Software Development
 
 the course contect :
 - git and github
