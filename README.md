@@ -27,8 +27,9 @@ lean how to buld interactive website using the DOM and make a style for web page
 
 
 # LABS 
-1- lab 1 : 
-2- (Lab: Class 02)[https://github.com/MURADALSHORMAN/basic-express-server-401/blob/main/README.md]
+1 - [Lab: Class 01]()
+
+2 - [Lab: Class 02](https://github.com/MURADALSHORMAN/basic-express-server-401/blob/main/README.md)
 
 
 
