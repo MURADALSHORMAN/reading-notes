@@ -30,10 +30,26 @@ In computer science, functional programming is a programming paradigm where prog
 
 is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
 
-A feature of objects is that an object's own procedures can access and often modify the data fields of itself (objects have a notion of this or self). In OOP, computer programs are designed by making them out of objects that interact with one another.[1][2] OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
+A feature of objects is that an object's own procedures can access and often modify the data fields of itself (objects have a notion of this or self). In OOP, computer programs are designed by making them out of objects that interact with one another OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
 
 Many of the most widely used programming languages (such as C++, Java, Python, etc.) are multi-paradigm and they support object-oriented programming to a greater or lesser degree, typically in combination with imperative, procedural programming. Significant object-oriented languages include: (list order based on TIOBE index) Java, C++, C#, Python, R, PHP, Visual Basic.NET, JavaScript, Ruby, Perl, Object Pascal, Objective-C, Dart, Swift, Scala, Kotlin, Common Lisp, MATLAB, and Smalltalk.
 
 
 ![](https://www3.ntu.edu.sg/home/ehchua/programming/java/images/OOP_Objects.png)
+
+
+## Continuous Integration (CI)
+
+In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline several times a day Grady Booch first proposed the term CI in his 1991 method although he did not advocate integrating several times a day. Extreme programming (XP) adopted the concept of CI and did advocate integrating more than once per day – perhaps as many as tens of times per day.
+
+
+![](https://academy.hsoub.com/uploads/monthly_2020_09/continuous-integration-and-continuous-delivery-xenonstack.png.4f492314f1368eb657f3b96a4ab0f91a.png)
+
+
+
+
+
+
+
+
 
