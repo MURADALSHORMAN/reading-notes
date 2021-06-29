@@ -31,6 +31,8 @@ lean how to buld interactive website using the DOM and make a style for web page
 
 2 - [Lab: Class 02](https://github.com/MURADALSHORMAN/basic-express-server-401/blob/main/README.md)
 
+3 - [Lab: Class 03](https://github.com/MURADALSHORMAN/basic-api-server-401/blob/main/README.md)
+
 
 
 # Challenges 
@@ -38,3 +40,5 @@ lean how to buld interactive website using the DOM and make a style for web page
 1 - [Code Challenge: Class 01]()
 
 2 - [Code Challenge: Class 02](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/array-insert-shift/README.md)
+
+3 - [Code Challenge: Class 03]()
