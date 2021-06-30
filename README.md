@@ -35,7 +35,7 @@ lean how to buld interactive website using the DOM and make a style for web page
 
 
 
-# Challenges 
+# Data Structures and Algorithms - code Challenges 
 
 1 - [Code Challenge: Class 01]()
 
