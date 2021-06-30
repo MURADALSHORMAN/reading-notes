@@ -42,3 +42,7 @@ lean how to buld interactive website using the DOM and make a style for web page
 2 - [Code Challenge: Class 02](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/array-insert-shift/README.md)
 
 3 - [Code Challenge: Class 03](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/array-binary-search/README.md)
+4 - [Code Challenge: Class 04](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/Interviews/README.md)
+
+
+
