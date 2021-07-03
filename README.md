@@ -1,23 +1,5 @@
-reading-notes
+# reading-notes
 
- Code 102 - Intro to Software Development
-
-the course contect :
-- git and github
-- learning markdown 
-- setup the computer and download the vs coding 
-
-# Code 201 - Foundations of Software Development
-
-the course contect 
-- Html
-- CSS
-- java script 
-
-lean how to buld interactive website using the DOM and make a style for web pages 
-
-
-# Code 301 - Intermediate Software Development
 
 
 
@@ -41,13 +23,15 @@ lean how to buld interactive website using the DOM and make a style for web page
 
 # Data Structures and Algorithms - code Challenges 
 
-1 - [Code Challenge: Class 01]()
+1 - [Code Challenge: Class 01](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/array-reverse/README.md)
 
-2 - [Code Challenge: Class 02](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/array-insert-shift/README.md)
+2 - [Code Challenge: Class 02](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/array-insert-shift/README.md)
 
-3 - [Code Challenge: Class 03](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/array-binary-search/README.md)
+3 - [Code Challenge: Class 03](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/array-binary-search/README.md)
 
-4 - [Code Challenge: Class 04](https://github.com/MURADALSHORMAN/data-structures-and-algorithms/blob/Interviews/README.md)
+4 - [Code Challenge: Class 04](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/Interviews/README.md)
+
+5-  [Code Challenge: Class 05](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/linked-list/README.md)
 
 
 
