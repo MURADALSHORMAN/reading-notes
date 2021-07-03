@@ -31,7 +31,7 @@
 
 4 - [Code Challenge: Class 04](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/Interviews/README.md)
 
-5-  [Code Challenge: Class 05](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/blob/linked-list/README.md)
+5-  [Code Challenge: Class 05](https://github.com/MURADALSHORMAN/data-structures-and-algorithms-401/tree/linked-list)
 
 
 
