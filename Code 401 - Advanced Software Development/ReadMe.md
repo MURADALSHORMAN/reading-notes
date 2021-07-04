@@ -10,3 +10,4 @@
 
 - [Read: Class 06](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Code%20401%20-%20Advanced%20Software%20Development/Read06.md)
 
+- [Read: Class 07](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Code%20401%20-%20Advanced%20Software%20Development/Read07.md)
