@@ -21,6 +21,8 @@
 
 6- [Lab: Class 07](https://github.com/MURADALSHORMAN/bearer-auth-401)
 
+7- [Lab: Class 08](https://github.com/MURADALSHORMAN/auth-api/blob/main/README.md)
+
 
 
 
