@@ -25,6 +25,8 @@
 
 8- [Lab: Class 09](https://github.com/MURADALSHORMAN/api-server-sql-401/blob/main/README.md)
 
+9- [Lab: Class 11](https://github.com/MURADALSHORMAN/Event-Driven-Applications)
+
 
 
 
