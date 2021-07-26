@@ -21,3 +21,4 @@
 - [Implementation: Trees](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Code%20401%20-%20Advanced%20Software%20Development/tree.md)
 - [Read: Class16](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Code%20401%20-%20Advanced%20Software%20Development/Read:%20Class%2016.md)
 - [Read: Class17](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Code%20401%20-%20Advanced%20Software%20Development/read17.md)
+- [Read: Class18](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Code%20401%20-%20Advanced%20Software%20Development/Read:%20Class%2018.md)
