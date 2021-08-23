@@ -8,7 +8,7 @@
 *  the React Context hell is the nasty code you get taking advantage of the React Context API.
 
 
-## Document the following Vocabulary Terms : (Links to an external site.)
+## Document the following Vocabulary Terms : 
 #### Term	 
 * global state	a set of local states which are all concurrent with each other. … A global state in the time domain is also a global state in the causal domain
 * global context	This is context that affects the entire application, and it will share data to everything in the React component tree.
